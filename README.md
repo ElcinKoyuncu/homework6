@@ -5,7 +5,7 @@
 This is the homework for Weather Dashboard.
 
 ## Link for the repo
-[My homework](https://elcinkoyuncu.github.io/homework5/)
+[My homework](https://elcinkoyuncu.github.io/homework6/)
 
 ## Screenshot for the application
 
